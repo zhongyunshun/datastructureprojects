@@ -1,0 +1,20 @@
+# A simple base of adding, committing, modifying, and checking out.
+> init
+<<<
++ wug.txt wug.txt
+> add wug.txt
+<<<
+> status
+=== Branches ===
+\*master
+
+=== Staged Files ===
+wug.txt
+
+=== Removed Files ===
+
+=== Modifications Not Staged For Commit ===
+
+=== Untracked Files ===
+
+<<<

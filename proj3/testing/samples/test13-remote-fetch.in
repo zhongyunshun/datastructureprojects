@@ -1,0 +1,8 @@
+# Basic remote command
+> init
+<<<
+> add-remote origin ../d1/.gitlet
+<<<
+> fetch origin master
+Remote directory not found.
+<<<*

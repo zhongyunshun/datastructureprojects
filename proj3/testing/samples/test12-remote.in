@@ -1,0 +1,9 @@
+# Basic remote command
+> init
+<<<
+> add-remote origin
+Incorrect operands.
+<<<*
+> rm-remote origin
+A remote with that name does not exist.
+<<<*
